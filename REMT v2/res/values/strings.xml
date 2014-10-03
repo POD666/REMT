@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Global -->
+    <string name="app_name">V1</string>
+    <string name="menu_settings">Settings</string>
+    
+    <!-- Authorization -->
+	<string name="loginbtn">Login</string>
+    <string name="savechbox">Save?</string>
+    <string name="psswrd">Password</string>
+    <string name="login">Login</string>
+    
+	<!-- ServerSetupPage -->
+    <string name="server">Servers</string>
+    <string name="newserverurl">New server url</string>
+    <string name="addbtn">Add</string>
+    <string name="edit">Edit</string>
+	<string name="delete">Delete</string>
+	<string name="context_menu_caption">Context Menu</string>
+	
+	<!-- ShopListPage -->
+    <string name="shoplistpage_caption">Shop List</string>
+    <string name="send_all_btn">Refresh</string>
+    <string name="get_new_shoplist">Send All</string>
+    
+    
+</resources>

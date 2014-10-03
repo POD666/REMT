@@ -1,0 +1,30 @@
+{
+	"Pages":
+	[
+	{
+		"Controls":
+		[
+			{"Value":"some text here","Type":11},
+			{"IsPassword":false,"LengthMin":0,"LengthMax":0,"NumberOfLines":1,"IsReadOnly":false,"DefaultValue":null,"Id":"2df87a8f-f73b-463f-be02-9871004219ce","IsMandatory":true,"Title":"string input 1 (mandatory)","Type":1},
+			{"IsPassword":false,"LengthMin":10,"LengthMax":0,"NumberOfLines":3,"IsReadOnly":false,"DefaultValue":"bla-bla-bla","Id":"2ec0fde7-1cf9-441a-834d-c4929f594c52","IsMandatory":false,"Title":"string input 2","Type":1}
+		],
+		"Id":"cebe2cf1-b530-4f82-b26b-1ffb015a98e6",
+		"Title":"first page",
+		"IsCanReturnOnThisPage":true,
+		"IsReEditable":false
+	},
+	{
+		"Controls":
+		[
+			{"Value":"page 2","Type":11},
+			{"DateMax":"15.1.2014","DateMin":"15.1.2012","IsReadOnly":false,"DefaultValue":"24.03.2013","Id":"2df87a8f-f73b-463f-be02-9871004219ce","IsMandatory":true,"Title":"date input 1 (mandatory)","Type":4}
+		],
+		"Id":"00000000-0000-0000-0000-000000000000",
+		"Title":"second page",
+		"IsCanReturnOnThisPage":false,
+		"IsReEditable":false
+	}
+	],
+	"Id":"e385d00f-c8bc-4861-9a12-7be184f3cec2",
+	"Title":"title 1"
+}
